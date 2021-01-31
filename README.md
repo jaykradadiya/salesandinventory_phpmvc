@@ -1,1 +1,1 @@
-# salesandinventory_phpmvc
+# sales and inventory management system using php mvc
